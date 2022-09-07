@@ -51,7 +51,11 @@
 |정렬은|콜론과대시로|적용합니다|
 |컬러는|자동으로|들어가네요|
 
-15. 글자 머티리얼 디자인처럼 효과 적용하는 방법
+---
+---
+---
+
+15. 이하는 다른 사람의 리드미 파일 예뻐서 더 보고 참고해도 좋을 내용.
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-blue.svg)](https://jekyllrb.com/)
