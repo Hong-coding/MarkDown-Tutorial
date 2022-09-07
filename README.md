@@ -1,4 +1,4 @@
-# [MarkDown-Tutorial .md파일 작성 방법]([https://github.com/Hong-coding/hong-coding.github.io#readme](https://github.com/Hong-coding/MarkDown-Tutorial/blob/main/README.md))
+# [MarkDown-Tutorial .md파일 작성 방법](https://github.com/Hong-coding/MarkDown-Tutorial/blob/main/README.md)
 마크다운 작성법을 정리한 내용입니다.
 
 # 마크다운은 
